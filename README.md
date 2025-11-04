@@ -62,7 +62,7 @@ Batch analysis of PIV (Particle Image Velocimetry) results to quantify collectiv
 
 - **Automated batch processing** for multiple experiments
 - **Robust migration metrics** including MSD, DACF, velocity, and directionality
-- **Support for both 2D and 3D microscopy data**
+- **Support for both 2D and 3D (in micropattern) experiments**
 - **Manual and automated tracking workflows**
 - **Interactive ROI selection** for complex geometries
 - **Statistical analysis** with weighted aggregation across movies
