@@ -164,10 +164,6 @@ If you use this pipeline in your research, please cite:
 
 [Add your publication reference here]
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit pull requests or open issues for bug reports and feature requests.
-
 ## License
 
 [Add license information]
